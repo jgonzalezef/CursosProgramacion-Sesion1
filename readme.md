@@ -22,4 +22,5 @@ npm i
 
 para ejecutar un archivo o proyecto tenemos que usar el comando
 
-node nombre_archivo.js
+node src/main.js
+
