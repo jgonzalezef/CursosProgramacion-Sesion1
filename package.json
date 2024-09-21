@@ -1,0 +1,14 @@
+{
+  "name": "sesion1",
+  "version": "1.0.0",
+  "description": "Este es la sesión 1 ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
