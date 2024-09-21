@@ -24,3 +24,10 @@ para ejecutar un archivo o proyecto tenemos que usar el comando
 
 node src/main.js
 
+abrir el navegador y poner la url: 
+http://localhost:3000/facebook/melissa 
+http://localhost:3000/facebook/mau
+
+Tarea:  Crear el endpoint para listado de usuarios
+
+http://localhost:3000/facebook/usuarios
